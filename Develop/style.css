@@ -97,7 +97,7 @@ button[disabled] {
   float: right;
 }
 
-#password {
+#final-pass {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
@@ -125,7 +125,7 @@ button[disabled] {
     padding: 10px 15px;
   }
 
-  #password {
+  #final-pass {
     font-size: 1rem;
   }
 }
