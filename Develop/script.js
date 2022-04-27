@@ -1,7 +1,7 @@
 // Generates password according to conditions
 function generatePassword(char, length) {
   password = "";
-  const charArr = [char.upper, char.lower, char.number, char.special];
+//   const charArr = [char.upper, char.lower, char.number, char.special];
 
   for (let i = 0; i < length; i++) {
     let x = [Math.floor(Math.random() * 4)];
